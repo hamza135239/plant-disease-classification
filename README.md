@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classification — ML Assignment
+# 🌿 Plant Disease Classification 
 
 > Multi-class image classification of plant leaf images into **38 disease categories** using Machine Learning  
 > **Dataset:** New Plant Diseases Dataset (3 GB, 87,000+ images) | **Models:** Logistic Regression · Random Forest · SVM · KNN
@@ -111,4 +111,4 @@ ML_Assignment/
 
 ---
 
-*ML Assignment Submission*
+
