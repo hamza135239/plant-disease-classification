@@ -1,0 +1,31 @@
+# ── Large Dataset Folders (too big for GitHub) ──────────────────────
+New Plant Diseases Dataset(Augmented)/
+dataset/
+data/
+*.zip
+*.gz
+*.tar
+
+# ── Python cache ─────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# ── Virtual environment ───────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── OS files ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+
+# ── Jupyter ───────────────────────────────────────────────────────────
+.ipynb_checkpoints/
